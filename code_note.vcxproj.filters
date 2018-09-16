@@ -54,5 +54,8 @@
     <ClCompile Include="最接近的三数之和.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
+    <ClCompile Include="括号匹配.cpp">
+      <Filter>源文件</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>

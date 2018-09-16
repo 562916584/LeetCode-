@@ -116,6 +116,7 @@
   <ItemGroup>
     <ClCompile Include="三数之和.cpp" />
     <ClCompile Include="字符串转整数.cpp" />
+    <ClCompile Include="括号匹配.cpp" />
     <ClCompile Include="最接近的三数之和.cpp" />
     <ClCompile Include="最长公共前缀.cpp" />
     <ClCompile Include="源.cpp" />
