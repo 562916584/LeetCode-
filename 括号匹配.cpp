@@ -41,6 +41,7 @@ bool isValid(string s) {
 		return false;
 	}
 }
+/*
 int main() {
 	string str;
 	while (cin >> str) {
@@ -50,3 +51,4 @@ int main() {
 	}
 	return 0;
 }
+*/
