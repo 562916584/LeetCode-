@@ -28,7 +28,7 @@ int removeDuplicates(vector<int>& nums) {
 	return res-tp;
 }
 
-
+/*
 int main() {
 	vector<int> data;
 	int n;
@@ -44,3 +44,4 @@ int main() {
 	}
 	return 0;
 }
+*/
